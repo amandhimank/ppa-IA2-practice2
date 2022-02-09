@@ -1,1 +1,17 @@
-
+gcc -g p2original.c
+ ./a.out
+Enter side :
+2
+Enter side :
+2
+Enter side :
+1
+Triangle is not scalene
+ ./a.out
+Enter side :
+1
+Enter side :
+2
+Enter side :
+3
+Triangle is scalene

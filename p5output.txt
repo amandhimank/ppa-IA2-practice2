@@ -1,1 +1,7 @@
-
+gcc -g p5original.c
+ ./a.out
+Enter the numbers :
+15
+Enter the numbers :
+25
+HCF of 15 and 25 is 5

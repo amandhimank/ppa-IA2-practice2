@@ -1,1 +1,9 @@
-
+gcc -g p3original.c
+ ./a.out
+Enter number :
+17
+17 is not a composite number
+ ./a.out
+Enter number :
+1
+1 is not a composite number

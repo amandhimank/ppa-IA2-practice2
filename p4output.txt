@@ -1,1 +1,9 @@
-
+gcc -g p4original.c
+ ./a.out
+Enter array size :
+4
+Enter the element1 : 3
+Enter the element2 : 2
+Enter the element3 : 7
+Enter the element4 : 1
+Sum of composite number is 0
